@@ -31,11 +31,11 @@
       "QLkey": 1,
       //服务器名称
       "QLName": "阿里云",
-      //青龙地址
+      //青龙地址 http://ip+端口
       "QLurl": "",
-      //青龙2,9 OpenApi Client ID
+      //青龙--OpenApi Client ID
       "QL_CLIENTID": "",
-      //青龙2,9 OpenApi Client Secret
+      //青龙--OpenApi Client Secret
       "QL_SECRET": "",
       //CK最大数量
       "QL_CAPACITY": 40,
